@@ -124,7 +124,7 @@ Find the minimum and maximum values.
 SELECT MIN(Salary) AS LowestSalary, MAX(Salary) AS HighestSalary
 FROM Employees;
 ```
-## Conclusion
-
-Understanding SQL basics, joins, and aggregations is essential for effective database management and getting the desired/relevant data. By mastering these concepts, one can perform complex queries to extract meaningful insights from your data.
+## References
+* [My SQL](https://dev.mysql.com/doc/)
+* [w3schools](https://www.w3schools.com/sql/)
 
